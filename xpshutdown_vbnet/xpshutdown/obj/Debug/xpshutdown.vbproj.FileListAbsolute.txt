@@ -1,0 +1,11 @@
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\bin\Debug\xpshutdown.exe
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\bin\Debug\xpshutdown.pdb
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\bin\Debug\xpshutdown.xml
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.Resources.resources
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.vbproj.GenerateResource.Cache
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.exe
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.xml
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.pdb
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.ShutdownForm.resources
+C:\Users\TuxPuf\Documents\Visual Studio 2008\Projects\xpshutdown\xpshutdown\obj\Debug\xpshutdown.GrayedBG.resources
